@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256">
+  <!-- Pistachio Noir: a split pistachio shell with a pistachio crescent badge, on the suite's green-black tile (Theme colours) -->
+  <rect x="8" y="8" width="240" height="240" rx="56" fill="#1D2016" stroke="#39412A" stroke-width="4"/>
+  <g transform="rotate(-12 112 206)">
+    <path d="M106 40 A54 83 0 0 0 106 206 Z" fill="#2A2F1F"/>
+    <path d="M114 40 A54 83 0 0 1 114 206 Z" fill="#39412A" transform="rotate(9 114 206)"/>
+    <path d="M70 100 Q64 128 72 156" fill="none" stroke="#A3B08F" stroke-width="10" stroke-linecap="round"/>
+  </g>
+  <circle cx="182" cy="186" r="44" fill="#9FD88A" stroke="#1D2016" stroke-width="8"/>
+  <path d="M192 168 A22 22 0 1 0 192 204 A18 18 0 0 1 192 168 Z" fill="#15170F" stroke="#15170F" stroke-width="4" stroke-linejoin="round"/>
+</svg>
